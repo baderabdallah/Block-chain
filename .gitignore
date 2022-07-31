@@ -1,0 +1,7 @@
+bazel-bazel-blockchain
+bazel-blockchain
+bazel-bin/
+bazel-out/
+external/
+bazel-testlogs/
+.vscode
