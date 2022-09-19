@@ -1,4 +1,4 @@
-# dummy-block-chain
+# Block chain
 
 A dummy block chain source code for transactions. Blocks are not mined, yet they are crypted to one another using hashes.
 
